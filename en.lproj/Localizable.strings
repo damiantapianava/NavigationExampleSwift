@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  NavigationExampleSwift
+
+  Created by Infraestructura on 23/09/16.
+  Copyright © 2016 Infraestructura. All rights reserved.
+*/
+"str_banner" = "Mixcoac Bikes";
+"str_welcome_banner" = "Welcome !!";
